@@ -1,0 +1,11 @@
+# Ignore R user data
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore files and folders containing idetnifiable data
+**from_form/
+*.csv
+*.png
+.DS_Store
